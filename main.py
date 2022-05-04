@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import sys, json, base64, time, re, logging, os
 from argparse import ArgumentParser
 from functools import partial, update_wrapper, lru_cache
